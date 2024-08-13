@@ -1,6 +1,2 @@
-import courses
-import pprint
+file = open('my_file.txt')
 
-print(courses.python_doc.doc)
-
-pprint.pprint(dir(courses))
