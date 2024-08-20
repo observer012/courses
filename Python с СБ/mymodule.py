@@ -1,4 +1,5 @@
-from math import pi, ceil
+import math
+# from math import pi, ceil
 
 
 NAME = 'mymodule'
